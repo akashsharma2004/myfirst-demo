@@ -1,3 +1,3 @@
 # myfirst-demo
-This is my first Git repository
-author - akash sharma
+This is my first Git repository.
+Author - Akash sharma
